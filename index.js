@@ -17,8 +17,8 @@ const LOCKED_GROUP_NAME = "मुल्लों के अल्लाह क�
 
 // ✅ Locked Nicknames (userID : nickname)
 const LOCKED_NICKNAMES = {
-  "1000123456789": "Ayush 👑",
-  "1000987654321": "King 🔥"
+  "265968": "ahsan.khan.",
+  "188924": "tanmay.rajput."
 };
 
 // ✅ Express Server to keep bot alive
