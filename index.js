@@ -13,12 +13,10 @@ try {
 
 // ✅ Group Info
 const GROUP_THREAD_ID = "684560211364238";
-const LOCKED_GROUP_NAME = "मुल्लों के अल्लाह की मां का फट्टा भोसड़ा मारने वाला रघुवीर ऑन फायर 🔥";
+const LOCKED_GROUP_NAME = "Aarish Khan  MULLE TERII RANDIII MAA की चूत CHUTTAR चूचियों मैं रघुवीर 🔥🔥🔥 भाई जान की हैप्पी DIW";
 
 // ✅ Locked Nicknames (userID : nickname)
 const LOCKED_NICKNAMES = {
-  "265968": "ahsan khan",
-  "188924": "tanmay rajput"
 };
 
 // ✅ Express Server to keep bot alive
